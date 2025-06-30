@@ -1,2 +1,0 @@
-# financepro-chatbot
-chat bot
